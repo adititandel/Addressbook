@@ -1,2 +1,2 @@
 # Addressbook
-Includes gui and database connectivity
+Includes gui and database connectivity(sqlite).
